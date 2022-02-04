@@ -3,7 +3,7 @@
 Maker Media GmbH
 *** 
 
-# Hydroponik-mit-Arduino
+# Die animatronische Posteule
 Arduino züchtet Salat
 
 ### Mit einem Ikea-Hack und einer Arduino-Steuerung kann man den Salatanbau ganz einfach automatisieren. Diese Hydroponikanlage ist mobil, modular, wartungsarm und ausfallsicher. 
