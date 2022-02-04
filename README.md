@@ -12,4 +12,4 @@ Arduino züchtet Salat
 
 ![Picture](https://github.com/MakeMagazinDE/Posteule/blob/main/posteule.png)
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2022](https://www.heise.de/select/make/2021/2/2023018371963195365) zu lesen. 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2022](https://www.heise.de/select/make/2022/1/2135511401796522217) zu lesen. 
