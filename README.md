@@ -11,15 +11,15 @@ Maker Media GmbH
 
 Hier findet ihr die benötigten Dateien für den 3D-Druck. Sie sind bereits ausgerichtet und mit Cura getestet. 
 
-<b>Verwendete Druckparameter:</b>
-Material: PLA <br>
-Temp.: 210°C <br>
-Infill: 25% <br>
-Support: überall, Zickzack <br>
-Schichthöhe: 0,2mm (0,1mm für K5, K6 und K7) <br>
-Druckgeschwindigkeit: 50mm/s (20mm/s für K5, B1 und B2) <br>
-Bewegungsgeschwindigkeit: 100mm/s (50mm/s für K5, B1 und B2) <br>
-Druckplattenhaftung: Skirt (Brim für K5, B1 und B2) <br>
+### Verwendete Druckparameter:
+<b>Material:</b> PLA <br>
+<b>Temp.:</b> 210°C <br>
+<b>Infill:</b> 25% <br>
+<b>Support:</b> überall, Zickzack <br>
+<b>Schichthöhe:</b> 0,2mm (0,1mm für K5, K6 und K7) <br>
+<b>Druckgeschwindigkeit:</b> 50mm/s (20mm/s für K5, B1 und B2) <br>
+<b>Bewegungsgeschwindigkeit:</b> 100mm/s (50mm/s für K5, B1 und B2) <br>
+<b>Druckplattenhaftung:</b> Skirt (Brim für K5, B1 und B2) <br>
 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2022](https://www.heise.de/select/make/2022/1/2135511401796522217) zu lesen. 
