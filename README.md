@@ -23,5 +23,5 @@ Hier findet ihr die benötigten Dateien für den 3D-Druck. Sie sind bereits ausg
 
 
 
-
+<br><br>
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2022](https://www.heise.de/select/make/2022/1/2135511401796522217) zu lesen. 
