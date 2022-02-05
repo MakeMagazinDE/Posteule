@@ -4,7 +4,6 @@ Maker Media GmbH
 *** 
 
 # Die animatronische Posteule
-Arduino züchtet Salat
 
 ### Wie durch Zauberhand: Der Raspberry Pi verwandelt eine Plüscheule in eure persönliche kleine Mitteilungszentrale. Sie flattert, schnattert, blinzelt und kann ihren Kopf drehen. Und das beste: Ihr habt dank Python die Programmierung selbst in der Hand. 
 
