@@ -11,7 +11,7 @@ Maker Media GmbH
 
 Hier findet ihr die benötigten Dateien für den 3D-Druck. Sie sind bereits ausgerichtet und mit Cura getestet. 
 
-### Verwendete Druckparameter:
+<b>Verwendete Druckparameter:</b>
 Material: PLA <br>
 Temp.: 210°C <br>
 Infill: 25% <br>
