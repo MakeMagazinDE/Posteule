@@ -20,7 +20,9 @@ Hier findet ihr die benötigten Dateien für den 3D-Druck. Sie sind bereits ausg
 <b>Druckgeschwindigkeit:</b> 50mm/s (20mm/s für K5, B1 und B2) <br>
 <b>Bewegungsgeschwindigkeit:</b> 100mm/s (50mm/s für K5, B1 und B2) <br>
 <b>Druckplattenhaftung:</b> Skirt (Brim für K5, B1 und B2) <br>
-
+<br>
+### Hinweise:
+Das Augenlid <b>K5</b> muss zweimal gedruckt werden, die Ringe <b>F1</b> dreimal.
 
 
 <br><br>
