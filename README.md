@@ -26,4 +26,4 @@ Das Augenlid <b>K5</b> muss zweimal gedruckt werden, die Ringe <b>F1</b> dreimal
 
 
 <br><br>
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2022](https://www.heise.de/select/make/2022/1/2135511401796522217) zu lesen. 
+Den vollständigen Artikel für den ersten Teil der Bauanleitung gibt es in der [Make-Ausgabe 1/2022](https://www.heise.de/select/make/2022/1/2135511401796522217) zu lesen. 
