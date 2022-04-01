@@ -25,7 +25,7 @@ Hier findet ihr die benötigten Dateien für den 3D-Druck und die Skripts für d
 Das Augenlid <b>K5</b> muss zweimal gedruckt werden, die Ringe <b>F1</b> dreimal. <br>
 <br>
 ### Hinweise für die 3D-Dateien aus Teil 2:
-Folgende Dateien müssen zweimal gedruckt werden: A8, A9, BN1, BN3, FX und G4
+Folgende Dateien müssen zweimal gedruckt werden: <b>A8, A9, BN1, BN3, FX</b> und <b>G4</b>
 <br>
 <br>
 ### Befehle, die nach der Installation von Raspberry Pi OS eingegeben werden müssen <br>(siehe Teil 2 der Bauanleitung):
