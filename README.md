@@ -28,7 +28,7 @@ Das Augenlid <b>K5</b> muss zweimal gedruckt werden, die Ringe <b>F1</b> dreimal
 Folgende Dateien müssen zweimal gedruckt werden: A8, A9, BN1, BN3, FX und G4
 <br>
 <br>
-### Befehle, die nach der Installation von Raspberry Pi OS eingegeben werden müssen (siehe Teil 2 der Bauanleitung):
+### Befehle, die nach der Installation von Raspberry Pi OS eingegeben werden müssen <br>(siehe Teil 2 der Bauanleitung):
 sudo apt update <br>
 sudo apt full-upgrade <br>
 sudo apt install python3-pip <br>
