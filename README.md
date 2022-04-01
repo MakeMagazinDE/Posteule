@@ -46,5 +46,5 @@ sudo pip3 install pydub <br>
 
 <br><br>
 Den vollständigen Artikel für den ersten Teil der Bauanleitung gibt es in der [Make-Ausgabe 1/2022](https://www.heise.de/select/make/2022/1/2135511401796522217) zu lesen. 
-<br><br>
+<br>
 Den vollständigen Artikel für den zweiten Teil der Bauanleitung gibt es in der [Make-Ausgabe 2/2022](https://www.heise.de/select/make/2022/2/2203916022634105772) zu lesen. 
