@@ -7,7 +7,7 @@ Maker Media GmbH
 
 ### Wie durch Zauberhand: Der Raspberry Pi verwandelt eine Plüscheule in eure persönliche kleine Mitteilungszentrale. Sie flattert, schnattert, blinzelt und kann ihren Kopf drehen. Und das beste: Ihr habt dank Python die Programmierung selbst in der Hand. 
 
-![Picture](https://github.com/MakeMagazinDE/Posteule/blob/main/posteule.png)
+![Picture](https://github.com/MakeMagazinDE/Posteule/blob/main/posteule2.png)
 
 Hier findet ihr die benötigten Dateien für den 3D-Druck. Sie sind bereits ausgerichtet und mit Cura getestet. 
 
