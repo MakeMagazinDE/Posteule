@@ -21,9 +21,30 @@ Hier findet ihr die benötigten Dateien für den 3D-Druck. Sie sind bereits ausg
 <b>Bewegungsgeschwindigkeit:</b> 100mm/s (50mm/s für K5, B1 und B2) <br>
 <b>Druckplattenhaftung:</b> Skirt (Brim für K5, B1 und B2) <br>
 <br>
-### Hinweise:
-Das Augenlid <b>K5</b> muss zweimal gedruckt werden, die Ringe <b>F1</b> dreimal.
+### Hinweise für die 3D-Dateien aus Teil 1:
+Das Augenlid <b>K5</b> muss zweimal gedruckt werden, die Ringe <b>F1</b> dreimal. <br>
+<br>
+### Hinweise für die 3D-Dateien aus Teil 2:
+Folgende Dateien müssen zweimal gedruckt werden: A8, A9, BN1, BN3, FX und G4
+<br>
+<br>
+### Befehle, die nach der Installation von Raspberry Pi OS eingegeben werden müssen (siehe Teil 2 der Bauanleitung):
+sudo apt update <br>
+sudo apt full-upgrade <br>
+sudo apt install python3-pip <br>
+sudo apt install ffmpeg libavcodec-extra <br>
+sudo apt install i2c-tools <br>
+sudo apt install libportaudio2 <br>
+sudo pip3 install imapclient <br>
+sudo pip3 install smbus <br>
+sudo pip3 install adafruit-circuitpython-lis3dh <br>
+sudo pip3 install adafruit-circuitpython-servokit <br>
+sudo pip3 install pysinewave <br>
+sudo pip3 install pydub <br>
+
 
 
 <br><br>
 Den vollständigen Artikel für den ersten Teil der Bauanleitung gibt es in der [Make-Ausgabe 1/2022](https://www.heise.de/select/make/2022/1/2135511401796522217) zu lesen. 
+<br>
+Den vollständigen Artikel für den ersten Teil der Bauanleitung gibt es in der [Make-Ausgabe 2/2022](https://www.heise.de/select/make/2022/2/2203916022634105772) zu lesen. 
