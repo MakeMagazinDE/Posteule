@@ -8,9 +8,9 @@ from time import sleep
 kit = ServoKit(channels=16)
 
 while True:
-  kit.servo[0].angle = eyesMin
+  kit.servo[0].angle = eyesMin #hier den Minimalwert eingeben
   time.sleep(0.1)
-  kit.servo[0].angle = eyesMax
+  kit.servo[0].angle = eyesMax #hier den Maximalwert eingeben
   time.sleep(2)
   kit.servo[0].angle = None
   time.sleep(1)
