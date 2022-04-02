@@ -9,7 +9,7 @@ Maker Media GmbH
 
 ![Picture](https://github.com/MakeMagazinDE/Posteule/blob/main/posteule2.png)
 
-Hier findet ihr die benötigten Dateien für den 3D-Druck und die Skripts für die Programmierung. Die 3D-Dateien sind bereits ausgerichtet und mit Cura getestet. 
+Hier findet ihr die benötigten Dateien für den 3D-Druck und die Skripts für die Programmierung. <br>Die 3D-Dateien sind bereits ausgerichtet und mit Cura getestet. 
 
 ### Verwendete Druckparameter:
 <b>Material:</b> PLA <br>
