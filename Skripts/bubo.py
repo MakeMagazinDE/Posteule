@@ -30,7 +30,6 @@ checkFreq = 20
 ### Variablen für die Servosteuerung
 
 kit = ServoKit(channels=16)
-sleepDuration = 1
 headMid = 90
 headMin = 0
 headMax = 180
