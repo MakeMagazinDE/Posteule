@@ -28,6 +28,13 @@ Das Augenlid <b>K5</b> muss zweimal gedruckt werden, die Ringe <b>F1</b> dreimal
 Folgende Dateien müssen zweimal gedruckt werden: <b>A8, A9, BN1, BN3, FX</b> und <b>G4</b>
 <br>
 <br>
+### Zwei Grafiken wurden mit Ziffern ergänzt:
+Ihr findet sie in dem Ordner Extras.
+
+![Picture](https://github.com/MakeMagazinDE/Posteule/blob/main/banner_beziffert.png)
+
+<br>
+<br>
 ### Hinweis zu dem Servo, der den Augenmechanismus steuert:
 Die Bauform der MG90s-Servos scheint sich je nach Hersteller zu unterscheiden. Dadurch kann es passieren, dass der Arm <b>A2</b> mit <b>K1</b> kollidiert, wenn die Welle zu kurz ist oder zu weit hinten sitzt. Zwischen <b>A2</b> und <b>K1</b> sollte eine ca. 0,6mm große Lücke vorhanden sein, damit sich der Arm am Servo problemlos bewegen kann. Haltet am besten den Arm <b>A2</b> einmal an den Servo, und schaut von oben, ob ihr eine Lücke seht. <br>In dem Ordner <i>3D-Druck/Teil 2/Extra</i> findet ihr die Datei <i>servo_spacer.stl</i>. Dabei handelt es sich um einen kleinen Ring, der in den Arm <b>A2</b> eingesetzt werden kann, bevor ihr ihn am Servo montiert. Er ist 1mm hoch, damit ihr ihn in eurem Slicer auf die richtige Größe (Z-Achse) skalieren könnt. Für alle, die bereits die Teile für den zweiten Artikel gedruckt haben: Der Abstandhalter kann auch aus Pappe gefertigt werden. In der Kurzinfo zum zweiten Artikel findet ihr den Link zu einem Video, das näher darauf eingeht.
 <br>
