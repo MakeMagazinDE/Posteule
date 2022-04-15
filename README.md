@@ -28,7 +28,7 @@ Das Augenlid <b>K5</b> muss zweimal gedruckt werden, die Ringe <b>F1</b> dreimal
 Folgende Dateien müssen zweimal gedruckt werden: <b>A8, A9, BN1, BN3, FX</b> und <b>G4</b>
 <br>
 <br>
-### Zwei Grafiken wurden mit Ziffern ergänzt:
+### Die Grafiken 7 und 10 aus der zweiten Bauanleitung (Make 2/22) wurden mit Ziffern ergänzt:
 Ihr findet sie in dem Ordner <i>Extras</i>.
 
 ![Picture](https://github.com/MakeMagazinDE/Posteule/blob/main/banner_ziffern.png)
