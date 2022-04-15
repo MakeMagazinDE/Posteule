@@ -31,7 +31,7 @@ Folgende Dateien müssen zweimal gedruckt werden: <b>A8, A9, BN1, BN3, FX</b> un
 ### Zwei Grafiken wurden mit Ziffern ergänzt:
 Ihr findet sie in dem Ordner Extras.
 
-![Picture](https://github.com/MakeMagazinDE/Posteule/blob/main/banner_beziffert.png)
+![Picture](https://github.com/MakeMagazinDE/Posteule/blob/main/banner_ziffern.png)
 
 <br>
 <br>
