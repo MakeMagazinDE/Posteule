@@ -21,15 +21,15 @@ Hier findet ihr die benötigten Dateien für den 3D-Druck und die Skripts für d
 <b>Bewegungsgeschwindigkeit:</b> 100mm/s (50mm/s für K5, B1 und B2) <br>
 <b>Druckplattenhaftung:</b> Skirt (Brim für K5, B1 und B2) <br>
 <br>
-### Hinweise für die 3D-Dateien aus Teil 1:
-Das Augenlid <b>K5</b> muss zweimal gedruckt werden, die Ringe <b>F1</b> dreimal. <br>
-<br>
-### Hinweise für die 3D-Dateien aus Teil 2:
-Folgende Dateien müssen zweimal gedruckt werden: <b>A8, A9, BN1, BN3, FX</b> und <b>G4</b>
-<br>
-<br>
+### Hinweise: 
+### Zu den 3D-Dateien aus Teil 1:
+- Das Augenlid <b>K5</b> muss zweimal gedruckt werden, die Ringe <b>F1</b> dreimal. <br>
+### Zu den 3D-Dateien aus Teil 2:
+- Folgende Dateien müssen zweimal gedruckt werden: <b>A8, A9, BN1, BN3, FX</b> und <b>G4</b>
+### Zu optimierten 3D-Dateien:
+- Es gibt ein paar angepasste 3D-Druckdaten zu <a href="https://github.com/MakeMagazinDE/Posteule/tree/main/3D-Druck/Teil%201/Optimierte%20Modelle"><b>Teil 1</b></a> und <a href="https://github.com/MakeMagazinDE/Posteule/tree/main/3D-Druck/Teil%202/Optimierte%20Modelle"><b>Teil 2</b></a>.
 ### Die Grafiken 7 und 10 aus der zweiten Bauanleitung (Make 2/22) wurden mit Ziffern ergänzt:
-Ihr findet sie in dem Ordner <a href="https://github.com/MakeMagazinDE/Posteule/tree/main/Extras"><b>Extras</b></a>.
+- Ihr findet sie in dem Ordner <a href="https://github.com/MakeMagazinDE/Posteule/tree/main/Extras"><b>Extras</b></a>.
 
 ![Picture](https://github.com/MakeMagazinDE/Posteule/blob/main/banner_ziffern.png)
 
