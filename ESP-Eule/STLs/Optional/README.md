@@ -1,0 +1,1 @@
+Dieser Ordner beinhaltet optionale 3D-Modelle für die Variante, die in der Make 5/22 auch auf der Maker Faire 2022 zu sehen war. Die ESP-Posteule lässt sich allerdings auch in der Plüsch-Variante bauen. Dafür benötigt ihr die 3D-Daten aus dem ersten und zweiten Teil der Anleitung. 
