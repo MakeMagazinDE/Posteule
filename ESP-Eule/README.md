@@ -11,7 +11,9 @@ Hier findet ihr die benötigten Dateien für den 3D-Druck und die Skripts für d
 
 ![Picture](https://github.com/MakeMagazinDE/Posteule/blob/main/ESP-Eule/banner.png)
 
-### Hinweis: Ihr benötigt zusätzlich die Bauteile und Anleitungen aus der Make 1/22 und 2/22.
+### Hinweise: 
+- Ihr benötigt zusätzlich die Bauteile und Anleitungen aus der Make 1/22 und 2/22.
+- Verwendet für die Eule eine gesonderte E-Mail-Adresse, weil die Funktion checkIncoming() nach dem Abfragen alle E-Mails löscht.
 
 <br>
 
