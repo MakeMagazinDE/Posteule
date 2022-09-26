@@ -22,6 +22,8 @@ Hier findet ihr die benötigten Dateien für den 3D-Druck und die Skripts für d
 <b>Druckplattenhaftung:</b> Skirt (Brim für K5, B1 und B2) <br>
 <br>
 ### Hinweise: 
+### Zur E-Mail-Abfrage:
+- Verwendet für die Eule eine gesonderte E-Mail-Adresse, weil die Funktion checkIncoming() nach dem Abfragen alle E-Mails löscht.
 ### Zu den 3D-Dateien aus Teil 1:
 - Das Augenlid <b>K5</b> muss zweimal gedruckt werden, die Ringe <b>F1</b> dreimal. <br>
 ### Zu den 3D-Dateien aus Teil 2:
