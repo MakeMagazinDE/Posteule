@@ -70,8 +70,8 @@ Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver(0x40);  //I2C
 #define headMid 90 
 #define headMax 180    
 
-#define wingsMax 90  
 #define wingsMin 90  
+#define wingsMax 90  
 
 //aktuelle Servo-Positionen festlegen
 int eyesPos = eyesMin;  
@@ -194,13 +194,13 @@ void checkIncoming(){
 /* FLÜGEL HOCH */
 void wingsUp(int aniSpeed) {
 
-  if (wingsPos>=wingsMin){
-    for (int i=wingsPos; i>=wingsMin; i--){
+  if (wingsPos>=wingsMax){
+    for (int i=wingsPos; i>=wingsMax; i--){
       pwm.setPWM(servoWings, 0, servoAngle(i));
       delay(aniSpeed);
       Serial.println(i);
     }
-    wingsPos = wingsMin;
+    wingsPos = wingsMax;
     Serial.println("Wings Position");
     Serial.println(wingsPos);
     pwm.setPWM(servoWings, 0, 4096);
@@ -211,12 +211,12 @@ void wingsUp(int aniSpeed) {
 /* FLÜGEL RUNTER */
 void wingsDown(int aniSpeed) {
 
-  if (wingsPos<=wingsMax){
-    for (int i=wingsPos; i<=wingsMax; i++){
+  if (wingsPos<=wingsMin){
+    for (int i=wingsPos; i<=wingsMin; i++){
       pwm.setPWM(servoWings, 0, servoAngle(i));
       delay(aniSpeed);
     }
-    wingsPos = wingsMax;
+    wingsPos = wingsMin;
     Serial.println("Wings Position");
     Serial.println(wingsPos);
     pwm.setPWM(servoWings, 0, 4096);
